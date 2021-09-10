@@ -1,0 +1,2 @@
+# GalaxyGameStoreS
+Proyecto
